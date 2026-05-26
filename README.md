@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Ram 👋
 
-<!--
-**ramdhivakar/ramdhivakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer focused on React, TypeScript and AI-powered applications.
 
-Here are some ideas to get you started:
+Building modern web applications with scalable architecture, reusable components and exceptional user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Frontend Developer specializing in React & TypeScript
+- 🏗 Building AI-powered applications
+- 🎯 Interested in Product Engineering
+- 📚 Continuously learning modern frontend architecture
+- 🌏 Based in Chennai, India
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+React • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS
+
+### Backend
+
+Node.js • Express.js • PostgreSQL
+
+### Tools
+
+Git • GitHub • VS Code • Figma • Vercel
+
+---
+
+## 🔥 Featured Projects
+
+### ECHO AI
+
+AI-powered enterprise assistant built with modern frontend architecture.
+
+### Portfolio Website
+
+Responsive personal portfolio showcasing projects and technical expertise.
+
+### Financial Dashboard
+
+Interactive analytics dashboard with rich visualizations.
+
+### Instagram Clone
+
+Social media application built using React ecosystem.
+
+---
+
+## 📫 Connect
+
+LinkedIn:
+https://linkedin.com/in/YOUR-LINK
+
+Portfolio:
+https://YOUR-PORTFOLIO.com
+
+Email:
+YOUR_EMAIL
